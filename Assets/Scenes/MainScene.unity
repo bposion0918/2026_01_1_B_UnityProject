@@ -274,8 +274,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96c19d2ea8226b949b9993deb85b2e8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
-  rigidbody: {fileID: 491598534}
+  rb: {fileID: 0}
   power: 20
+  TextUI: {fileID: 0}
+  timer: 0
 --- !u!1 &564999494
 GameObject:
   m_ObjectHideFlags: 0
